@@ -1,0 +1,250 @@
+RFC 7243 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.028321
+
+ Total time since start to finish downloading all files: 0:00:00.028821
+
+RFC 7321 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.059915
+
+ Total time since start to finish downloading all files: 0:00:01.033028
+
+RFC 8117 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.139035
+
+ Total time since start to finish downloading all files: 0:00:02.081660
+
+RFC 8144 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.186934
+
+ Total time since start to finish downloading all files: 0:00:03.050519
+
+RFC 8154 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.219813
+
+ Total time since start to finish downloading all files: 0:00:04.035055
+
+RFC 8217 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.287768
+
+ Total time since start to finish downloading all files: 0:00:05.073485
+
+RFC 8218 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.365911
+
+ Total time since start to finish downloading all files: 0:00:06.083712
+
+RFC 8219 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.451045
+
+ Total time since start to finish downloading all files: 0:00:07.093705
+
+RFC 8220 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.514399
+
+ Total time since start to finish downloading all files: 0:00:08.073938
+
+RFC 8221 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.580399
+
+ Total time since start to finish downloading all files: 0:00:09.076850
+
+RFC 8222 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.632087
+
+ Total time since start to finish downloading all files: 0:00:10.062518
+
+RFC 8223 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.697958
+
+ Total time since start to finish downloading all files: 0:00:11.079409
+
+RFC 8228 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.751528
+
+ Total time since start to finish downloading all files: 0:00:12.066082
+
+RFC 8229 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.808050
+
+ Total time since start to finish downloading all files: 0:00:13.070551
+
+RFC 8232 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.866489
+
+ Total time since start to finish downloading all files: 0:00:14.070837
+
+RFC 8243 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:00.951462
+
+ Total time since start to finish downloading all files: 0:00:15.102548
+
+RFC 8244 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.027648
+
+ Total time since start to finish downloading all files: 0:00:16.095321
+
+RFC 8254 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.080839
+
+ Total time since start to finish downloading all files: 0:00:17.076902
+
+RFC 8258 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.142741
+
+ Total time since start to finish downloading all files: 0:00:18.084419
+
+RFC 8262 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.201111
+
+ Total time since start to finish downloading all files: 0:00:19.083242
+
+RFC 8269 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.228788
+
+ Total time since start to finish downloading all files: 0:00:20.047490
+
+RFC 8272 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.258851
+
+ Total time since start to finish downloading all files: 0:00:21.051891
+
+RFC 8277 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.298991
+
+ Total time since start to finish downloading all files: 0:00:22.061426
+
+RFC 8287 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.348094
+
+ Total time since start to finish downloading all files: 0:00:23.072658
+
+RFC 8318 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.383964
+
+ Total time since start to finish downloading all files: 0:00:24.057830
+
+RFC 8319 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.491790
+
+ Total time since start to finish downloading all files: 0:00:25.137657
+
+RFC 8321 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.550667
+
+ Total time since start to finish downloading all files: 0:00:26.086054
+
+RFC 8354 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.625914
+
+ Total time since start to finish downloading all files: 0:00:27.106588
+
+RFC 8358 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.700993
+
+ Total time since start to finish downloading all files: 0:00:28.106076
+
+RFC 8369 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.741196
+
+ Total time since start to finish downloading all files: 0:00:29.070556
+
+RFC 8399 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.778271
+
+ Total time since start to finish downloading all files: 0:00:30.065600
+
+RFC 8418 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.833933
+
+ Total time since start to finish downloading all files: 0:00:31.100962
+
+RFC 8420 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.890138
+
+ Total time since start to finish downloading all files: 0:00:32.099366
+
+RFC 8429 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.952962
+
+ Total time since start to finish downloading all files: 0:00:33.110106
+
+RFC 8499 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:01.982042
+
+ Total time since start to finish downloading all files: 0:00:34.065958
+
+RFC 8520 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.001973
+
+ Total time since start to finish downloading all files: 0:00:35.053498
+
+RFC 8523 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.048093
+
+ Total time since start to finish downloading all files: 0:00:36.089993
+
+RFC 8524 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.100260
+
+ Total time since start to finish downloading all files: 0:00:37.092914
+
+RFC 8528 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.137590
+
+ Total time since start to finish downloading all files: 0:00:38.073668
+
+RFC 8618 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.183696
+
+ Total time since start to finish downloading all files: 0:00:39.084697
+
+RFC 8620 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.209198
+
+ Total time since start to finish downloading all files: 0:00:40.063476
+
+RFC 8621 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.245295
+
+ Total time since start to finish downloading all files: 0:00:41.082740
+
+RFC 8658 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.274373
+
+ Total time since start to finish downloading all files: 0:00:42.070033
+
+RFC 8659 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.309511
+
+ Total time since start to finish downloading all files: 0:00:43.077619
+
+RFC 8719 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.344654
+
+ Total time since start to finish downloading all files: 0:00:44.078166
+
+RFC 8720 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.384590
+
+ Total time since start to finish downloading all files: 0:00:45.080853
+
+RFC 8869 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.401208
+
+ Total time since start to finish downloading all files: 0:00:46.059308
+
+RFC 8870 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.415674
+
+ Total time since start to finish downloading all files: 0:00:47.056985
+
+RFC 8921 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.440260
+
+ Total time since start to finish downloading all files: 0:00:48.073604
+
+RFC 8922 Downloaded from: 192.168.56.1:65430
+Total time to download just the files: 0:00:02.471340
+
+ Total time since start to finish downloading all files: 0:00:49.092201
+
